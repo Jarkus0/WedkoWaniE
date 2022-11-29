@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Baner {
+    display: flex;
+    justify-content: center;
+    background-color: #00838F;
+    color: white;
+    padding: 5px;
+    font-size: 130%;
+}
+
+.Stopka {
+    display: flex;
+    justify-content: center;
+    background-color: #00838F;
+    color: white;
+    padding: 5px;
+    font-size: 130%;
+}
+
+.Dwa_Bloki_Lewe {
+    background-color: #EFEFEF;
+    width: 55%;
+}
+
+.Pierwszy_Lewy {
+    height: 150px;
+}
+
+.Drugi_Lewy {
+    height: 300px;
+}
+
+.Prawy_Blok {
+    background-color: #4FB3BF;
+    width: 45%;
+    height: 450px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.Zdjecie {
+    margin: 20px;
+    box-shadow: 10px 10px 7px 0px rgba(105, 105, 105, 1);
+}
+
+.Tabele {
+    width: 80%;
+}
